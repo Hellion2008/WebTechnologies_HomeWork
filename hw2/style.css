@@ -1,0 +1,19 @@
+html{
+  background-color: aquamarine;
+}
+img {
+  width: 350px;
+  border: solid green 5px ;
+}
+a:hover{
+  color: brown;
+}
+.big_text {
+  font-size: 18px;
+}
+h1{
+  color: green;
+}
+.par_color{
+  color: blueviolet;
+}
